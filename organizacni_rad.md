@@ -44,8 +44,7 @@ případně ji stimuluje.
    - Rok narození
  - Přihlášky jsou ukládány ve vpsAdminu a archivovány po dobu 3 let. Poté jsou
    vymazány.
- - Záznam v tabulce členů zůstává po dobu 5 let jako ochrana proti vracejícím se
-   potenciálně škodícím členům.
+ - Záznam v tabulce členů zůstává po dobu 5 let od ukončení členství dle §6 odst. 3 stanov (vyloučení Radou) jako ochrana proti vracejícím se potenciálně škodícím členům.
  - Pokud člen vyžaduje vystavení faktury, bude tato faktura vystavena pomocí
    externí služby - Fakturoid (poskytovatelem je Fakturoid s. r. o., se sídlem
    V pláni 532/7, Praha 4, 142 00, zapsaná v OR u Městského soudu v Praze, oddíl C,
